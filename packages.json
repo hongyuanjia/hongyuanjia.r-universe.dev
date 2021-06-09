@@ -1,0 +1,22 @@
+[
+    {
+        "package": "eplusr",
+        "url": "https://github.com/hongyuanjia/eplusr"
+    },
+    {
+        "package": "psychrolib",
+        "url": "https://github.com/hongyuanjia/psychrolib/tree/CRAN/src/r"
+    },
+    {
+        "package": "epluspar",
+        "url": "https://github.com/hongyuanjia/epluspar"
+    },
+    {
+        "package": "ggpsychro",
+        "url": "https://github.com/hongyuanjia/ggpsychro"
+    },
+    {
+        "package": "epwshiftr",
+        "url": "https://github.com/ideas-lab-nus/epwshiftr"
+    }
+]
