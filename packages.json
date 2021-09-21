@@ -22,5 +22,9 @@
     {
         "package": "epwmap",
         "url": "https://github.com/hongyuanjia/epwmap"
+    },
+    {
+        "package": "jfun",
+        "url": "https://github.com/hongyuanjia/jfun"
     }
 ]
