@@ -18,5 +18,9 @@
     {
         "package": "epwshiftr",
         "url": "https://github.com/ideas-lab-nus/epwshiftr"
+    },
+    {
+        "package": "epwmap",
+        "url": "https://github.com/hongyuanjia/epwmap"
     }
 ]
