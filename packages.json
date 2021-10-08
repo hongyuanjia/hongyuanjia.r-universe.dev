@@ -5,7 +5,9 @@
     },
     {
         "package": "psychrolib",
-        "url": "https://github.com/hongyuanjia/psychrolib/tree/CRAN/src/r"
+        "url": "https://github.com/hongyuanjia/psychrolib/tree/CRAN/src/r",
+        "subdir": "src/r",
+        "branch" : "CRAN"
     },
     {
         "package": "epluspar",
