@@ -14,6 +14,10 @@
         "url": "https://github.com/hongyuanjia/epluspar"
     },
     {
+        "package": "destep",
+        "url": "https://github.com/hongyuanjia/destep"
+    },
+    {
         "package": "rdyncall",
         "url": "https://github.com/hongyuanjia/rdyncall"
     },
